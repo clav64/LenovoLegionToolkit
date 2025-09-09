@@ -1,4 +1,6 @@
 > [!IMPORTANT]
+> This project is neither endorsed nor affiliated with the orignal project by Bartosz, or Lenovo. I am forking a copy for my own preservation only. It's as good as abandonned. 
+
 > _Archived on July 24, 2025, This project is no longer actively maintained._
 > 
 > Thank you to everyone who supported, used, contributed to, and shared this project. It's been an amazing journey watching it grow among Legion users.
